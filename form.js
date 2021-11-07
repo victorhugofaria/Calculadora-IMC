@@ -29,4 +29,4 @@
         
     }
 
-        botaoCalcular.addEventListener("click", calculandoIMC)
+        botaoCalcular.addEventListener("click", calculandoIMC);
